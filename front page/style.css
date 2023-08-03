@@ -1,0 +1,20 @@
+.ma{
+   text-align: center;
+}
+.fi{
+    background-color: rgb(230, 7, 44);
+    border-radius: 10px;
+    font-size: 25px;
+}
+body{
+    border: 2px solid rgb(43, 199, 12);
+    margin-left: 100px;
+   margin-right: 60%;
+   padding: 30px;
+   border-width: 50px;
+   
+
+}
+.lo{
+    width: 60%;
+}
